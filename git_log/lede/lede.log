@@ -1,7 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-SHA|Author|Date|Message
--|-|-|-
-6631052ac|aiamadeus|Fri Aug 15 22:10:06 2025 +0800|rockchip: add some stmmac / dsa workaround
-cecb43680|aiamadeus|Sun Aug 10 22:20:10 2025 +0800|uboot-rockchip: add pending rk3582 support
-</details>
