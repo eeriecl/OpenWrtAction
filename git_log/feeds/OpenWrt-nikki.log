@@ -2,5 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-240c087|Joseph Mory|Thu Aug 21 20:32:48 2025 +0800|chore: check if api listen option is configured
+bc0f57e|Joseph Mory|Fri Aug 22 10:09:03 2025 +0800|fix: get reserved ip from right config
 </details>
