@@ -2,6 +2,11 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-4dc556542|John Crispin|Tue Nov 5 09:40:24 2024 +0100|fstools: move jffs2reset to factoryreset
-7836788a4|coolsnowwolf|Fri Aug 22 13:07:44 2025 +0800|fstools: update to Git HEAD (2025-07-05)
+6df2631c5|zhusir|Thu Sep 12 17:20:19 2024 +0800|Revert "switch luci to openwrt-24.10"
+583ba0cbe|coolsnowwolf|Sat Aug 16 22:10:09 2025 +0800|mediatek: fix wifi on cmcc devices
+12eec53e6|coolsnowwolf|Sun Aug 17 22:02:40 2025 +0800|kernel: bump 6.x to latest HEAD
+2bf633f92|Daniel Golle|Sat Jul 12 03:39:43 2025 +0100|x86: enable built-in driver for MMC/SDHCI
+4537386a4|coolsnowwolf|Mon Aug 25 04:41:15 2025 +0800|qualcommax: fix build with linux 6.12.43+
+c1916a3c2|coolsnowwolf|Sun Aug 24 06:49:41 2025 +0800|rockchip: add Xunlong Orange Pi 5 Max and Ultra support
+24e773f8c|coolsnowwolf|Sat Aug 23 18:38:11 2025 +0800|kernel: bump 6.12 to 6.12.43
 </details>
